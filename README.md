@@ -1,1 +1,1 @@
-# treehouse-project-2
+# Pagination Project
